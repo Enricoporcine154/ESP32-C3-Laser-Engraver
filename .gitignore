@@ -1,0 +1,41 @@
+# PlatformIO build artifacts
+.pioenvs/
+.pio/
+.pio/build/
+
+# VSCode settings
+.vscode/
+.history/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Build outputs
+Debug/
+Release/
+*.vsarduino.h
+__vm/
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.suo
+Grbl_Esp32.ino.cpp
+
+# Editor temp files
+*.orig
+*~
+*.swp
+*.swo
+*.pyc
+
+# Node.js (embedded tools)
+embedded/node_modules/
+embedded/dist/
+
+# Dependencies
+/packages/
+
+# IDE
+.idea/
