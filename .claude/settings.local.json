@@ -4,7 +4,9 @@
       "Bash(rtk ls:*)",
       "Bash(ls:*)",
       "Bash(rm:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(gh:*)",
+      "Bash(mv:*)"
     ]
   }
 }

@@ -21,6 +21,22 @@
 
 ---
 
+## 📸 产品展示
+
+### 硬件设计
+
+| PCB 正面 | PCB 背面 |
+|:--------:|:--------:|
+| ![PCB正面](hardware/images/pcb_front.jpg) | ![PCB背面](hardware/images/pcb_back.jpg) |
+
+### 成品展示
+
+![产品照片](images/product-front.jpg)
+
+> 一体化 PCB 设计，告别模块化组装，直接可用
+
+---
+
 ## 📖 项目起源与致谢
 
 本项目是以下开源项目的衍生作品：
